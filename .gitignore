@@ -1,0 +1,31 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.env
+*.env
+
+# Logs and databases
+instance/
+*.log
+*.sqlite3
+
+# IDE/editor files
+.vscode/
+.idea/
+*.swp
+
+# Python dependencies
+Pipfile
+Pipfile.lock
+
+# Flask secret keys or config
+config.py
+settings.py
+.env
+
+# Cache files
+.cache/
